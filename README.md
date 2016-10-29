@@ -38,11 +38,11 @@
     即可连接至我们的服务器并自动同步所有文件，整个连接过程大陆可直接连接而无需翻墙。待所有文件同步完毕，
     进入同步目录中找到《革命方略.网络战场》，按照指引操作即可。
 
-五、官方信息发布渠道（均需翻墙访问，twitter或googlle+只须关注一个即可，telegram是主要沟通平台，务必加入）：
+五、官方信息发布渠道（均需翻墙访问，twitter或google+只须关注一个即可，telegram是主要沟通平台，务必加入）：
 
     twitter：https://twitter.com/yFreechina
     google+：https://plus.google.com/communities/113631580134166680696
-    telegram：https://t.co/AcICgRHvxT
+    telegram：https://t.co/AcICgRHvxT
          
 六、互助答疑：
 
