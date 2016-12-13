@@ -41,9 +41,14 @@
 
 五、官方信息发布渠道（均需翻墙访问，twitter或google+只须关注一个即可，telegram是主要沟通平台，务必加入）：
 
-    twitter：https://twitter.com/yFreechina
-    google+：https://plus.google.com/communities/113631580134166680696
-    telegram：https://t.co/AcICgRHvxT
+    twitter：
+    https://twitter.com/yFreechina
+
+    google+：
+    https://plus.google.com/communities/113631580134166680696
+
+    telegram：
+    https://t.co/AcICgRHvxT
          
 六、互助答疑（请先安装本站提供的gpg4win软件，并导入公钥文件“RCC公钥.txt”。所有邮件请先加密再发给我们，否则一律不回复）：
 
