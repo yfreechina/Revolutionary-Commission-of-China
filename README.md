@@ -34,20 +34,17 @@
 
     革命公告请点击本页右上方“Wiki页面”查看，具体革命策略请先下载本站提供的ResilioSync软件，安装完毕后，输入:
 
-                              EB3QFUZJGF7QPL2VYGZJI2ZSED5I53MIJRB6ELRVOHWECSSZ7KPCP57HRBE
+                              EQTAXGCNFNKT6UWGU7MJI545PDDFN4PLIOC2E3WDKFHPZIRZYVO4FNF2EIM
 
     即可连接至我们的服务器并自动同步所有文件，整个连接过程大陆可直接连接而无需翻墙。待所有文件同步完毕，
     进入同步目录中找到《革命方略.网络战场》，按照指引操作即可。
 
 五、官方信息发布渠道（均需翻墙访问，twitter或google+只须关注一个即可，telegram是主要沟通平台，务必加入）：
 
-    twitter：
+    X/Twitter：
     https://twitter.com/yFreechina
 
-    google+：
-    https://plus.google.com/communities/113631580134166680696
-
-    telegram：
+    Telegram：
     https://t.co/AcICgRHvxT
          
 六、互助答疑（请先安装本站提供的gpg4win软件，并导入公钥文件“RCC公钥.txt”。所有邮件请先加密再发给我们，否则一律不回复）：
